@@ -1,0 +1,40 @@
+_repo: Feet-Of-Clay_32724
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hoskins, Robert
+    aliases:
+    - Hoskins, Robert Phillip
+    - Hoskins, Robert P.
+    - Hoskins, Phillip
+    birthdate: 1933
+    deathdate: 1993
+    gutenberg_agent_id: '36004'
+    url: http://www.gutenberg.org/2009/agents/36004
+description: ''
+gutenberg_issued: '2010-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: Feet of Clay
+url: http://www.gutenberg.org/ebooks/32724
